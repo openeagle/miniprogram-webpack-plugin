@@ -1,5 +1,5 @@
 {
-  "name": "@openeagle/uniapp-open-webpack-plugin",
+  "name": "@openeagle/miniprogram-webpack-plugin",
   "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
