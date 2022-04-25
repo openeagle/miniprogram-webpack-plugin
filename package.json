@@ -23,11 +23,10 @@
     "vue": "^3.0.0"
   },
   "dependencies": {
-    "comment-json": "^4.1.1",
+    "chalk": "^5.0.1",
+    "inquirer": "^8.2.2",
     "fs-extra": "^10.0.0",
-    "globby": "11.0.4",
-    "schema-utils": "^4.0.0",
-    "webpack-sources": "^3.2.3"
+    "schema-utils": "^4.0.0"
   },
   "devDependencies": {
     "@openeagle/eslint-config-node": "^1.0.0",
